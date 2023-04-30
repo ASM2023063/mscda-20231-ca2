@@ -1,0 +1,131 @@
+﻿FACTOR,UNITS,2007,2008,2009,2010,2011,2012,2013,2014,2015,Country,Product
+Consumption Volume,Thousand tons,3563.00,3489.00,1748.00,1704.00,1263.00,48.40,856.00,580.90,667.00,Ireland,Cement
+Consumption Value,Million USD,264.30,267.40,159.10,160.80,137.10,7.70,101.40,69.20,83.40,Ireland,Cement
+Production Volume,Thousand tons,4003.00,3900.00,2600.00,2600.00,2103.00,1198.00,2000.00,2000.00,2500.00,Ireland,Cement
+Production Value,Million USD,146.70,160.20,175.10,191.30,209.00,228.40,234.90,237.60,323.70,Ireland,Cement
+Import Volume,Thousand tons,684.40,735.40,204.10,138.70,104.30,90.70,92.30,106.70,89.80,Ireland,Cement
+Import Value,Million USD,65.50,65.40,23.00,13.90,10.90,10.70,10.00,9.50,7.00,Ireland,Cement
+Export Volume,Thousand tons,1124.00,1146.00,1056.00,1035.00,944.60,1240.00,1236.00,1526.00,1923.00,Ireland,Cement
+Export Value,Million USD,105.50,112.00,101.90,104.70,94.00,111.20,110.60,148.00,145.40,Ireland,Cement
+Import Price,USD per Ton,95.70,88.90,112.60,99.90,104.60,118.50,107.80,88.90,78.10,Ireland,Cement
+Export Price,USD per Ton,93.90,97.70,96.50,101.20,99.50,89.60,89.50,97.00,75.60,Ireland,Cement
+Per Capita Consumption,Kg per Person,810.10,777.20,382.60,368.20,270.80,10.40,182.80,124.00,141.90,Ireland,Cement
+Net Export Volume,Thousand tons,439.60,410.80,852.00,896.50,840.30,1150.00,1144.00,1419.00,1833.00,Ireland,Cement
+Net Export Value,Million USD,40.00,46.60,78.90,90.90,83.10,100.40,100.60,138.50,138.40,Ireland,Cement
+Consumption Volume,Thousand tons,117546.00,97539.00,70200.00,71960.00,72929.00,79217.00,82025.00,86346.00,101975.00,USA,Cement
+Consumption Value,Million USD,12055.00,9737.00,6020.00,5503.00,5674.00,6069.00,6901.00,7237.00,8547.00,USA,Cement
+Production Volume,Thousand tons,96850.00,87610.00,64843.00,67176.00,68639.00,74934.00,77415.00,83124.00,93208.00,USA,Cement
+Production Value,Million USD,10153.00,8915.00,5568.00,5064.00,5278.00,5661.00,6506.00,6956.00,7800.00,USA,Cement
+Import Volume,Thousand tons,21739.00,10898.00,6338.00,6141.00,5937.00,6276.00,6514.00,6069.00,10337.00,USA,Cement
+Import Value,Million USD,1693.00,949.10,561.40,535.80,519.00,552.70,571.90,663.10,896.10,USA,Cement
+Export Volume,Thousand tons,1042.00,969.60,980.20,1357.00,1646.00,1993.00,1904.00,2847.00,1571.00,USA,Cement
+Export Value,Million USD,131.40,117.50,117.50,184.30,211.30,259.10,257.70,264.20,240.10,USA,Cement
+Import Price,USD per Ton,77.90,87.10,88.60,87.30,87.40,88.10,87.80,109.30,86.70,USA,Cement
+Export Price,USD per Ton,126.00,121.20,119.90,135.80,128.30,130.00,135.40,92.80,152.90,USA,Cement
+Per Capita Consumption,Kg per Person,391.00,321.50,229.40,233.10,234.50,252.80,260.00,271.80,318.70,USA,Cement
+Net Export Volume,Thousand tons,-20696.30,﻿-9928.3,﻿-5357.6,﻿-4783.6,﻿-4290.3,﻿-4283,﻿-4610,﻿-3222,﻿-8766.6,USA,Cement
+Net Export Value,Million USD,-1561.20,﻿-831.6,﻿-443.9,﻿-351.5,﻿-307.8,﻿-293.6,﻿-314.2,﻿-398.9,﻿-656,USA,Cement
+Consumption Volume,Thousand tons,45592.00,51654.00,52095.00,59937.00,65145.00,70275.00,70976.00,72034.00,65649.00,Brazil,Cement
+Consumption Value,Million USD,3981.00,5397.00,5174.00,6616.00,7906.00,7580.00,7647.00,7739.00,5437.00,Brazil,Cement
+Production Volume,Thousand tons,46551.00,51970.00,51748.00,59118.00,64093.00,69323.00,69975.00,71254.00,65283.00,Brazil,Cement
+Production Value,Million USD,3802.00,5478.00,5086.00,6714.00,8250.00,7631.00,7690.00,7801.00,4927.00,Brazil,Cement
+Import Volume,Thousand tons,286.60,286.60,397.00,859.70,1098.00,985.60,1034.00,823.90,514.10,Brazil,Cement
+Import Value,Million USD,20.80,26.80,39.40,79.40,99.50,92.10,92.90,77.00,48.70,Brazil,Cement
+Export Volume,Thousand tons,1246.00,602.80,49.60,40.50,45.40,33.50,32.70,43.70,147.90,Brazil,Cement
+Export Value,Million USD,62.30,39.30,5.10,4.50,5.40,4.40,4.20,5.50,13.00,Brazil,Cement
+Import Price,USD per Ton,72.50,93.30,99.30,92.30,90.60,93.40,89.80,93.40,94.80,Brazil,Cement
+Export Price,USD per Ton,50.00,65.20,102.90,112.00,118.90,131.20,129.30,126.50,87.80,Brazil,Cement
+Per Capita Consumption,Kg per Person,238.70,267.70,267.30,304.60,327.90,350.40,350.70,352.70,318.70,Brazil,Cement
+Net Export Volume,Thousand tons,959.20,316.10,﻿-347.4,﻿-819.2,﻿-1052.3,﻿-952.1,﻿-1001.2,﻿-780.2,﻿-366.2,Brazil,Cement
+Net Export Value,Million USD,41.50,12.50,﻿-34.3,﻿-74 8,-94.10,﻿-87.7,﻿-88.6,﻿-71.4,-35.70,Brazil,Cement
+Consumption Volume,Thousand tons,1346507.00,1387333.00,1636216.00,1870996.00,2091058.00,2201410.00,2400469.00,2482064.00,2349902.00,China,Cement
+Consumption Value,Million USD,58994.00,69244.00,84842.00,97491.00,124781.00,132310.00,139494.00,147064.00,136241.00,China,Cement
+Production Volume,Thousand tons,1361170.00,1400000.00,1644000.00,1880000.00,2099000.00,2210000.00,2411000.00,2492000.00,2359000.00,China,Cement
+Production Value,Million USD,54201.00,66718.00,82445.00,94894.00,126356.00,134256.00,140297.00,148660.00,136866.00,China,Cement
+Import Volume,Thousand tons,532.40,565.30,702.70,823.10,855.60,649.90,411.20,238.10,103.60,China,Cement
+Import Value,Million USD,22.40,27.10,33.40,38.80,45.30,37.70,26.90,21.40,16.80,China,Cement
+Export Volume,Thousand tons,15195.00,13232.00,8487.00,9827.00,8798.00,9240.00,10942.00,10174.00,9202.00,China,Cement
+Export Value,Million USD,605.10,630.60,425.60,496.00,529.60,561.30,636.70,606.90,533.90,China,Cement
+Import Price,USD per Ton,42.10,47.90,47.50,47.20,52.90,57.90,65.30,89.80,162.30,China,Cement
+Export Price,USD per Ton,39.80,47.70,50.10,50.50,60.20,60.70,58.20,59.70,58.00,China,Cement
+Per Capita Consumption,Kg per Person,985.00,1009.00,1183.00,1346.00,1495.00,1566.00,1698.00,1746.00,1645.00,China,Cement
+Net Export Volume,Thousand tons,14663.00,12667.00,7784.00,9004.00,7943.00,8590.00,10531.00,9936.00,9098.00,China,Cement
+Net Export Value,Million USD,582.60,603.50,392.20,457.20,484.40,523.70,609.90,585.50,517.10,China,Cement
+Consumption Volume,Thousand tons,27566.00,27452.00,24918.00,24756.00,26766.00,27169.00,26602.00,27677.00,26207.00,Germany,Cement
+Consumption Value,Million USD,2198.00,2193.00,2188.00,2059.00,2410.00,2234.00,2295.00,2420.00,1980.00,Germany,Cement
+Production Volume,Thousand tons,33382.00,33581.00,30441.00,29894.00,32779.00,32432.00,31308.00,32099.00,31160.00,Germany,Cement
+Production Value,Million USD,2644.00,2665.00,2687.00,2483.00,2975.00,2660.00,2709.00,2820.00,2322.00,Germany,Cement
+Import Volume,Thousand tons,1144.00,1064.00,1025.00,1046.00,1117.00,1277.00,1344.00,1325.00,1308.00,Germany,Cement
+Import Value,Million USD,160.90,173.20,159.60,166.20,184.30,181.10,203.50,208.80,177.20,Germany,Cement
+Export Volume,Thousand tons,6961.00,7193.00,6548.00,6184.00,7131.00,6541.00,6050.00,5747.00,6262.00,Germany,Cement
+Export Value,Million USD,599.70,750.10,643.70,570.00,709.90,615.50,588.80,558.10,498.00,Germany,Cement
+Import Price,USD per Ton,140.60,162.80,155.70,158.80,164.90,141.80,151.40,157.60,135.40,Germany,Cement
+Export Price,USD per Ton,86.20,104.30,98.30,92.20,99.60,94.10,97.30,97.10,79.50,Germany,Cement
+Per Capita Consumption,Kg per Person,338.90,338.40,307.80,306.00,330.70,335.10,327.40,339.60,320.70,Germany,Cement
+Net Export Volume,Thousand tons,5816.00,6129.00,5523.00,5138.00,6014.00,5263.00,4706.00,4422.00,4953.00,Germany,Cement
+Net Export Value,Million USD,438.80,576.90,484.00,403.80,525.60,434.30,385.30,349.30,320.80,Germany,Cement
+Consumption Volume,Thousand tons,60349.00,58928.00,44046.00,50862.00,58164.00,64461.00,69128.00,71772.00,63262.00,Russia,Cement
+Consumption Value,Million USD,5694.00,7027.00,3703.00,4133.00,5168.00,6155.00,6639.00,5875.00,3948.00,Russia,Cement
+Production Volume,Thousand tons,59939.00,53548.00,44266.00,50392.00,56153.00,61691.00,66549.00,69139.00,62103.00,Russia,Cement
+Production Value,Million USD,61.46,7563.00,3832.00,4142.00,5279.00,6434.00,6999.00,5748.00,3286.00,Russia,Cement
+Import Volume,Thousand tons,2066.00,5862.00,1124.00,1170.00,2398.00,4234.00,4338.00,4501.00,2883.00,Russia,Cement
+Import Value,Million USD,206.60,593.10,88.60,91.00,212.50,348.40,347.30,337.90,169.20,Russia,Cement
+Export Volume,Thousand tons,1656.00,482.00,1344.00,700.20,386.90,1464.00,1759.00,1868.00,1723.00,Russia,Cement
+Export Value,Million USD,169.80,68.10,116.30,57.60,36.40,152.70,185.00,155.30,91.20,Russia,Cement
+Import Price,USD per Ton,100.00,101.20,78.90,77.80,88.60,82.30,80.10,75.10,58.70,Russia,Cement
+Export Price,USD per Ton,102.50,141.20,86.60,82.20,94.00,104.30,105.20,83.10,52.90,Russia,Cement
+Per Capita Consumption,Kg per Person,421.60,411.80,307.80,355.30,406.00,449.50,481.40,499.20,439.70,Russia,Cement
+Net Export Volume,Thousand tons,﻿-409.6,﻿-5380,220.00,﻿-469.4,-2011.50,-2770.20,-2578.80,-2633.00,-1159.70,Russia,Cement
+Net Export Value,Million USD,﻿-36.8,﻿-525,27.70,﻿-33.4,-176.10,-195.70,-162.30,-182.60,-78.00,Russia,Cement
+Consumption Volume,Thousand tons,9485.00,10086.00,9615.00,9415.00,9106.00,9109.00,8810.00,9376.00,9395.00,Australia,Cement
+Consumption Value,Million USD,2604.00,3181.00,2947.00,2986.00,3268.00,2954.00,2726.00,3648.00,2713.00,Australia,Cement
+Production Volume,Thousand tons,9200.00,9400.00,9200.00,9000.00,8600.00,8500.00,8400.00,9000.00,9100.00,Australia,Cement
+Production Value,Million USD,2333.00,3041.00,2836.00,2940.00,3423.00,2879.00,2631.00,4047.00,2530.00,Australia,Cement
+Import Volume,Thousand tons,306.60,705.80,431.50,442.40,530.50,629.00,423.80,383.20,303.10,Australia,Cement
+Import Value,Million USD,38.20,77.30,46.20,51.60,45.60,51.20,40.30,40.70,31.60,Australia,Cement
+Export Volume,Thousand tons,21.90,20.10,16.60,27.30,24.60,20.60,13.70,71.00,8.50,Australia,Cement
+Export Value,Million USD,5.60,6.50,5.10,8.90,9.80,7.00,4.30,3.20,2.40,Australia,Cement
+Import Price,USD per Ton,124.70,109.60,107.10,116.70,85.90,81.40,95.00,106.30,104.20,Australia,Cement
+Export Price,USD per Ton,253.60,323.50,308.30,326.60,398.00,338.80,313.30,449.60,278.00,Australia,Cement
+Per Capita Consumption,Kg per Person,452.80,472.60,442.30,425.60,405.10,399.10,380.60,399.40,394.70,Australia,Cement
+Net Export Volume,Thousand tons,-284.70,﻿-685.6,﻿-414 9,﻿-415,﻿-505.9,﻿-608.5,﻿-410.1,﻿-376.1,﻿-294.6,Australia,Cement
+Net Export Value,Million USD,-32.70,﻿-70.8,﻿-41.1,﻿-42.7,﻿-35.8,﻿-44.2,﻿-36,﻿-37.6,﻿-29.2,Australia,Cement
+Consumption Volume,Thousand tons,37076.00,40032.00,47930.00,55599.00,57914.00,55187.00,54111.00,57183.00,64521.00,Vietnam,Cement
+Consumption Value,Million USD,3976.00,3958.00,4389.00,4804.00,4816.00,3663.00,4205.00,4356.00,5004.00,Vietnam,Cement
+Production Volume,Thousand tons,37102.00,40009.00,47900.00,55801.00,58271.00,56353.00,57516.00,60982.00,67427.00,Vietnam,Cement
+Production Value,Million USD,4297.00,4209.00,4596.00,4987.00,4967.00,3603.00,4505.00,4658.00,5269.00,Vietnam,Cement
+Import Volume,Thousand tons,63.50,115.40,123.50,92.60,73.60,52.00,31.40,34.40,36.50,Vietnam,Cement
+Import Value,Million USD,7.30,12.20,15.60,11.50,9.90,5.60,4.00,6.50,5.20,Vietnam,Cement
+Export Volume,Thousand tons,89.40,92.70,94.00,294.50,430.40,1218.00,3437.00,3834.00,2942.00,Vietnam,Cement
+Export Value,Million USD,10.40,9.70,9.00,26.30,36.70,77.90,269.20,292.80,229.90,Vietnam,Cement
+Import Price,USD per Ton,115.20,105.80,126.60,124.30,135.10,107.90,125.90,188.50,141.90,Vietnam,Cement
+Export Price,USD per Ton,115.80,105.20,95.90,89.40,85.20,63.90,78.30,76.40,78.10,Vietnam,Cement
+Per Capita Consumption,Kg per Person,431.70,461.70,547.40,628.40,647.50,610.10,591.40,617.90,689.50,Vietnam,Cement
+Net Export Volume,Thousand tons,25.90,﻿-22.7,﻿-29.5,201.90,356.80,1166.00,3405.00,3799.00,2906.00,Vietnam,Cement
+Net Export Value,Million USD,3.00,﻿-2.5,﻿-6.6,14.80,26.70,72.30,265.20,286.30,224.70,Vietnam,Cement
+Consumption Volume,Thousand tons,58919,57460,49529,46756,47096,50175,53572,53284,49441,Japan,Cement
+Consumption Value,Million USD,160.5,180.1,184.9,191.6,244.9,250.7,229.6,229.2,214.1,Japan,Cement
+Production Volume,Thousand tons,63705,62810,54800,51526,51291,54737,57962,57913,54827,Japan,Cement
+Production Value,Million USD,138.6,170,190.9,203.8,276.3,280.4,243.5,244.4,233.5,Japan,Cement
+Import Volume,Thousand tons,1154,935.4,827.2,628.9,729.4,846.4,828,609,393.7,Japan,Cement
+Import Value,Million USD,61.8,61.5,62.2,56.5,70.1,79.1,68.8,56.1,39.8,Japan,Cement
+Export Volume,Thousand tons,5940,6285,6099,5399,4924,5409,5218,5238,5779,Japan,Cement
+Export Value,Million USD,174.4,204.7,215.9,175.8,165.7,203.1,203.7,214.8,235.8,Japan,Cement
+Import Price,USD per Ton,53.6,65.8,75.2,89.8,96.1,93.4,83,92.2,101.1,Japan,Cement
+Export Price,USD per Ton,29.4,32.6,35.4,32.6,33.7,37.5,39,41,40.8,Japan,Cement
+Per Capita Consumption,Kg per Person,458.5,447,385.2,363.7,366.5,390.7,417.5,415.8,386.3,Japan,Cement
+Net Export Volume,Thousand tons,4786,5350,5271,4770,4195,4562,4390,4629,5386,Japan,Cement
+Net Export Value,Million USD,112.6,143.2,153.7,119.3,95.6,124,134.9,158.6,196,Japan,Cement
+Consumption Volume,Thousand tons,40989,44356,49369,48709,65043,69023,66773,62749,49749,Iran,Cement
+Consumption Value,Million USD,2185,2775,3124,3337,4129,4610,4984,5290,5148,Iran,Cement
+Production Volume,Thousand tons,41000,44400,50000,50000,66000,70250,68700,66700,58600,Iran,Cement
+Production Value,Million USD,1588,2233,2559,2885,3394,3903,4489,5162,5936,Iran,Cement
+Import Volume,Thousand tons,64.2,37.6,9,7.8,9,31.7,41.1,47.9,31.2,Iran,Cement
+Import Value,Million USD,5.2,3.7,2,2.7,7,6,13.6,10.8,8.6,Iran,Cement
+Export Volume,Thousand tons,75.3,81.4,640.5,1298,965.9,1258,1968,3999,8883,Iran,Cement
+Export Value,Million USD,6.9,7.9,49,99.4,60.4,78.7,117.2,297.8,530.6,Iran,Cement
+Import Price,USD per Ton,81.5,97.6,225.8,343,773.8,189.3,330.6,225.8,275.3,Iran,Cement
+Export Price,USD per Ton,91.9,97.2,76.4,76.5,62.5,62.5,59.6,74.5,59.7,Iran,Cement
+Per Capita Consumption,Kg per Person,569,608.9,670,653.2,861.6,902.8,862.3,800.3,626.9,Iran,Cement
+Net Export Volume,Thousand tons,11.1,43.8,631.5,1291,956.9,1227,1927,3951,8851,Iran,Cement
+Net Export Value,Million USD,1.7,4.2,46.9,96.7,53.4,72.7,103.7,286.9,522,Iran,Cement
